@@ -1,4 +1,4 @@
 <?php
-  echo "<h1>Hola desde PHP</h1>";
+  echo "<h1>Este PHP es de Johann Gonzalez</h1>";
   phpinfo();
 ?>
